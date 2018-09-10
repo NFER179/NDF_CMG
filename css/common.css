@@ -1,0 +1,18 @@
+body {
+    background: #000000;
+}
+
+.head-button {
+    background: #000000;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+#body {
+    background: #ffffff;
+}
+
+#footer #webs{
+    color: #ffffff;
+}
